@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Satyanarayan Jindal - Contact Me</title>
+		<link rel="stylesheet" href="resources/css/header.css">
+	</head>
+	<body>
+	<div class="navbar">
+		<a href="" class="navbar"> Home </a>
+		<a href="" class="navbar"> About Me </a>
+		<a href="" class="navbar"> Contact Me </a>
+		<a href="" class="navbar"> My Gallery </a>
+	</div>
+	<div class=content-body>
+		<h1>My Home</h1>
+		<p> This is a home for my porfolio.</p>
+	</div>
+	</body>
+</html>

@@ -1,0 +1,130 @@
+body{
+	background: floralwhite;
+}
+
+a.navbar {
+	 padding: 20px;
+    text-decoration: auto;
+    font-size: 30px;
+    color: darkcyan;
+    font-weight: bold;
+}
+
+div.navbar {
+    margin-top: 100px;
+    margin-left: 600px;
+    position: absolute;
+}
+
+/* mouse over link */
+a:hover {
+  color: midnightblue;
+}
+
+
+.content-body{
+	 position: absolute;
+    margin-top: 150px;
+    margin-left: 300px;
+    margin-right: 300px;
+    /* display: block; */
+    /* border: blue; */
+    border-style: solid;
+    border-width: thin;
+    height: 1000px;
+    width: 1400px;
+    border-color: lightgray;
+}
+
+input{
+	padding: 5px;
+    border-radius: 5px;
+    width: 300px;
+    font-family: serif;
+    font-size: 20px;
+    /* position: relative; */
+    margin-left: 50px;
+    border-width: thin;
+}
+
+label{
+	    padding: 20px;
+    font-size: 25px;
+}
+
+.submit-button{
+	width: 438px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+div.contact{
+	padding-left: 800px;
+    padding-top: 100px;
+    width: 600px;
+}
+
+img.contact{
+	float: left;
+    padding: 100px;
+    width: 500px;
+}
+
+.gallery{
+	 display: inline-grid;
+    grid-template-columns: auto auto auto;
+}
+
+img{
+	width: 300px;
+    padding: 50px;
+    border-radius: 25%;
+    height: 280px;
+    object-fit: cover;
+}
+
+figcaption{
+	font-size: 20px;
+    color: steelblue;
+    font-style: italic;
+    padding-left: 100px;
+}
+
+img.aboutme{
+	float: left;
+    border-radius: 50%;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+p{
+	position: relative;
+    margin-top: 120px;
+    font-size: 40px;
+    font-style: oblique;
+    font-family: serif;
+}
+
+.contactdiv {
+	
+	margin-bottom: 8px;
+}
+
+.homeimage{
+	margin-left: 400px;
+    margin-top: 10px;
+    border-radius: none;
+    border-radius: 0px;
+    width: 500px;
+    height: 500px;
+}
+
+.home-text{
+	font-style: inherit;
+    font-family: serif;
+    font-size: 30px;
+    padding: 50px;
+    position: relative;
+    margin-top: -20px;
+}
